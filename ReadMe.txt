@@ -1,3 +1,0 @@
-Project Scraper: 
-Main file is - Scraper.py
-This program will scrape discord servers to get stock option information and upload it to a database for statistical analysis. The file aws.py includes functions that will upload the information to a primary database. The file optionclass.py provides the class that is meant to store all the stock information needed for the main program. The file add_time.py provides a function that alters a date, and is mainly used in the option_class file. ScrnShts folder includes a screenshot of the monthly progress from trading through this program for the month of January. However I did not include the file used to buy and sell said options. 
