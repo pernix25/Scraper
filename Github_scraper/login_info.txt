@@ -1,0 +1,4 @@
+Robinhood Username
+Robinhood Password
+Robinhood Authorization Code
+Discord Authorization Code
